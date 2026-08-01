@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Large datasets
+datasets/frames/
+datasets/map_store/tiles/
+outputs/
+experiments/
+
+# Videos
+*.mp4
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/

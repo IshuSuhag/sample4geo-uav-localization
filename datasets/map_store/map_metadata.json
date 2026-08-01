@@ -1,0 +1,21 @@
+{
+    "map_id": "satellite_map_v1",
+
+    "width_px": 1271,
+    "height_px": 839,
+
+    "crs": "UNKNOWN_UNTIL_CONFIRMED",
+
+    "world_file":
+    {
+        "A": 1.3180551847439654,
+        "D": 0.0,
+        "B": 0.0,
+        "E": -1.3180551847439654,
+        "C": 8570688.63990769,
+        "F": 3735206.18357241
+    },
+
+    "tile_size_px": 256,
+    "stride_px": 128
+}
